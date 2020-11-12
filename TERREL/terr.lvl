@@ -1,0 +1,34 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode
+-100 0 "Peach" "Solid" 10 "Black" "Black" "None" 2
+1 0 "Peach" "Solid" 15 "R14 G14 B14" "R14 G14 B14" "None" 2
+100 0 "Peach" "Solid" 10 "R28 G28 B28" "R28 G28 B28" "None" 2
+200 0 "Peach" "Solid" 10 "R42 G42 B42" "R42 G42 B42" "None" 2
+300 0 "Peach" "Solid" 10 "R56 G56 B56" "R56 G56 B56" "None" 2
+400 0 "Peach" "Solid" 10 "R70 G70 B70" "R70 G70 B70" "None" 2
+500 0 "Peach" "Solid" 15 "R85 G85 B85" "R85 G85 B85" "None" 2
+600 0 "Peach" "Solid" 10 "R99 G99 B99" "R99 G99 B99" "None" 2
+700 0 "Peach" "Solid" 10 "R113 G113 B113" "R113 G113 B113" "None" 2
+800 0 "Peach" "Solid" 10 "R127 G127 B127" "R127 G127 B127" "None" 2
+900 0 "Peach" "Solid" 10 "R141 G141 B141" "R141 G141 B141" "None" 2
+1000 0 "Peach" "Solid" 15 "R155 G155 B155" "R155 G155 B155" "None" 2
+1100 0 "Peach" "Solid" 10 "R170 G170 B170" "R170 G170 B170" "None" 2
+1200 0 "Peach" "Solid" 10 "R184 G184 B184" "R184 G184 B184" "None" 2
+1300 0 "Peach" "Solid" 10 "R198 G198 B198" "R198 G198 B198" "None" 2
+1400 0 "Peach" "Solid" 10 "R212 G212 B212" "R212 G212 B212" "None" 2
+1500 0 "Peach" "Solid" 15 "R226 G226 B226" "R226 G226 B226" "None" 2
+1600 0 "Peach" "Solid" 10 "R240 G240 B240" "R240 G240 B240" "None" 2
+1700 0 "Peach" "Solid" 10 "White" "White" "None" 2
+1800 0 "Peach" "Solid" 10 "White" "White" "None" 2
+1900 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2000 0 "Peach" "Solid" 15 "White" "White" "None" 2
+2100 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2200 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2300 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2400 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2500 0 "Peach" "Solid" 15 "White" "White" "None" 2
+2600 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2700 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2800 0 "Peach" "Solid" 10 "White" "White" "None" 2
+2900 0 "Peach" "Solid" 10 "White" "White" "None" 2
+3000 0 "Peach" "Solid" 15 "White" "White" "None" 2

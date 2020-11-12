@@ -1,0 +1,23 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode FScale FType
+0 1 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+5 0 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+10 1 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+15 0 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+20 1 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+25 0 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+30 1 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+35 0 "Neon Purple" ".1 in. Dash" 0 "Black" "Black" "None" 1 1 1
+40 1 "Neon Purple" ".1 in. Dash" 0 "R18 G18 B18" "R18 G18 B18" "None" 1 1 1
+45 0 "Neon Purple" ".1 in. Dash" 0 "R36 G36 B36" "R36 G36 B36" "None" 1 1 1
+50 1 "Neon Purple" ".1 in. Dash" 0 "R54 G54 B54" "R54 G54 B54" "None" 1 1 1
+55 0 "Neon Purple" ".1 in. Dash" 0 "R72 G72 B72" "R72 G72 B72" "None" 1 1 1
+60 1 "Neon Purple" ".1 in. Dash" 0 "R91 G91 B91" "R91 G91 B91" "None" 1 1 1
+65 0 "Neon Purple" ".1 in. Dash" 0 "R109 G109 B109" "R109 G109 B109" "None" 1 1 1
+70 1 "Neon Purple" ".1 in. Dash" 0 "R127 G127 B127" "R127 G127 B127" "None" 1 1 1
+75 0 "Neon Purple" ".1 in. Dash" 0 "R145 G145 B145" "R145 G145 B145" "None" 1 1 1
+80 1 "Neon Purple" ".1 in. Dash" 0 "R163 G163 B163" "R163 G163 B163" "None" 1 1 1
+85 0 "Neon Purple" ".1 in. Dash" 0 "R182 G182 B182" "R182 G182 B182" "None" 1 1 1
+90 1 "Neon Purple" ".1 in. Dash" 0 "R200 G200 B200" "R200 G200 B200" "None" 1 1 1
+95 0 "Neon Purple" ".1 in. Dash" 0 "R218 G218 B218" "R218 G218 B218" "None" 1 1 1
+100 1 "Neon Purple" ".1 in. Dash" 0 "R236 G236 B236" "R236 G236 B236" "None" 1 1 1

@@ -1,0 +1,11 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode FScale FType
+1E-007 1 "Black" "Solid" 0 "Light Yellow" "R255 G119 B119" "Solid" 1 1 1
+1E-006 0 "Black" "Solid" 0 "Sky Blue" "R255 G221 B221" "Solid" 1 1 1
+1E-005 1 "Black" "Solid" 0 "Light Green" "R255 G187 B187" "Solid" 1 1 1
+0.0001 0 "Black" "Solid" 0 "Chartreuse" "Soft Pink" "Solid" 1 1 1
+0.001 0 "Black" "Solid" 0 "Sand" "R255 G85 B85" "Solid" 1 1 1
+0.01 1 "Black" "Solid" 0 "Pink" "R255 G51 B51" "Solid" 1 1 1
+0.1 0 "Black" "Solid" 0 "Tropical Pink" "R255 G43 B43" "Solid" 1 1 1
+1 1 "Black" "Solid" 0 "Red" "R255 G34 B34" "Solid" 1 1 1
+10 0 "Black" "Solid" 0 "Violet" "R255 G17 B17" "Solid" 1 1 1

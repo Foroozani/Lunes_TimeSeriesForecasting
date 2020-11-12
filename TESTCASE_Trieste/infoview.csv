@@ -1,0 +1,65 @@
+
+
+ CALPUFF Model Configuration
+" File Examined: C:\CALPUFF\TESTCASE\calpuff.con"
+ 
+" Titles:"
+"  Produced by CALPUFF Version: 6.268  Level: 100308"
+"  Internal Coordinate Transformations  ---  COORDLIB   Version: 1.99   Level: 070921"
+"  CALPUFF.INP     2.0"
+"  CALPUFF test case run - 3 point sources"
+"  24-Hour Simulation using CALMET met. data"
+"  Gridded receptors on 17x17 20-km met grid"
+ 
+" Time Period:"
+"BEGIN:", 07-Jul-1988,00:00:00," (hh:mm:ss) ","    UTC-0500"
+"END:", 08-Jul-1988,00:00:00," (hh:mm:ss) ","    UTC-0500"
+ 
+# Periods,        24
+Avg (sec),      3600
+ 
+ Species:
+ SO2         ,(g/m3)
+ 
+ Grid Configuration:
+ 17 ,,NX Cells
+ 17 ,,NY Cells
+ 20.0000000 ,,Cell Size (km)
+ 120.000008 , 4570.00000 ,SW Corner (km)
+ 
+ Coordinate System:
+ NAS-C   ,,DATUM Code
+ UTM     ,,Map Projection
+ 19 ,,UTM Zone (1-60)
+ N   ,,Hemisphere
+ 
+ Sources:
+ 3 ,Number of Points
+ 0 ,Number of Volumes
+ 0 ,Number of Areas
+ 0 ,Number of Lines
+ 
+ Receptors:
+ 17 , 17 ,Grid (ngx,ngy)
+ 0 ,,Discrete
+ 0 ,,CTSG Terrain
+
+
+
+CALPUFF Model Options
+
+ MGAUSS  ,MSLUG   ,MCHEM   ,MAQCHEM ,MWET    ,MDRY    ,MTILT   ,MDISP   ,MDISP2  ,MPDF    ,MTURBVW ,MTAULY  ,MTAUADV ,MCTURB  ,MROUGH  ,MBDW    ,MTRANS  ,MTIP    ,MSHEAR  ,MPARTL  ,MTINV   ,MCTADJ  ,MCTSG   ,MSPLIT  ,MSGTIBL ,MBCON   ,MSOURCE ,MFOG    ,MREG    
+ 
+ 1     ,1     ,0     ,0     ,0     ,0     ,0     ,3     ,3     ,0     ,3     ,0     ,0     ,1     ,0     ,1     ,1     ,1     ,0     ,0     ,0     ,1     ,0     ,0     ,0     ,0     ,0     ,0     ,0     
+
+
+
+CALPUFF Source Details
+
+ ,,,Mean,Mean,Release,Base,Stack,Exit,Exit,FMFAC,Bldg,Sigma,Sigma,SO2         
+ Source,,Type,X,Y,Height,Elev,Diameter,Velocity,Temperature,,DW,Y,Z,Rate        
+ ,,,km,km,m,m(MSL),m,m/s,K,,Flag,m,m,user units  
+ 
+ 1                                                                               ,,POINT   ,      171.0,     4603.0,      65.0,        .0,       3.5,      12.6,     330.0,    1.0,     .0,       -  ,       -  ,        1.0E01
+ 2                                                                               ,,POINT   ,      196.0,     4629.0,      17.0,        .0,       3.5,      12.6,     330.0,    1.0,     .0,       -  ,       -  ,        1.0E01
+ 3                                                                               ,,POINT   ,      357.0,     4783.0,      43.0,        .0,       3.5,      12.6,     330.0,    1.0,     .0,       -  ,       -  ,        1.0E01

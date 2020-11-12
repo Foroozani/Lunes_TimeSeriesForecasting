@@ -1,0 +1,8 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode FScale FType
+0 1 "Olive" "Solid" 0 "R14 G14 B14" "R14 G14 B14" "None" 1 1 1
+0.001 1 "Olive" "Solid" 0 "R14 G14 B14" "R14 G14 B14" "None" 1 1 1
+0.01 1 "Olive" "Solid" 0 "R14 G14 B14" "R14 G14 B14" "None" 1 1 1
+0.1 1 "Olive" "Solid" 0 "R21 G21 B21" "R21 G21 B21" "None" 1 1 1
+1 1 "Olive" "Solid" 0 "R85 G85 B85" "R85 G85 B85" "None" 1 1 1
+10 1 "Olive" "Solid" 0 "White" "White" "None" 1 1 1

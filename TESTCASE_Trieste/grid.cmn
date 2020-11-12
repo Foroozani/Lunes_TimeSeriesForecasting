@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+                     GRID FILE                                                  
+                  ---------------                                               
+! IMAP = UTM       !                                                              
+! IUTMZN =  19     !                                                               
+! LSOHEM = N        !                                                           
+! DATUM = NAS-C     !                                                            
+! XREFKM =     120.00    !                                                      
+! YREFKM =    4570.00    !                                                      
+! DGRIDKM =      20.00    !                                                     
+ ! NX =  17  !
+ ! NY =  17  !
+ ! NZ =  6  !
+ ! XBTZ =  5  !
+! ZFACE =      0 !
+! ZFACE =     20 !
+! ZFACE =     50 !
+! ZFACE =    100 !
+! ZFACE =    500 !
+! ZFACE =   2000 !
+! ZFACE =   3300 !
