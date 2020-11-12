@@ -1,5 +1,5 @@
-# Lunes_TimeSeriesForecasting
-Time series forecasting models
+# Time series forecasting models
+
 ---
 To study the problem we have data measured from the stations  01.01.2008-30.12.2008. Also we used CALMET-CALPUFF modelling to generate more label data which can be feed to the models and our Neural Networks.
 
